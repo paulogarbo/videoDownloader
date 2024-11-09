@@ -19,14 +19,8 @@ Este projeto é um simples downloader de vídeos do YouTube, desenvolvido em Pyt
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/youtube-video-downloader.git
+    git clone https://github.com/paulogarbo/videoDownloader.git
     cd youtube-video-downloader
-    ```
-
-2. Instale as dependências:
-
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ## Como Usar
